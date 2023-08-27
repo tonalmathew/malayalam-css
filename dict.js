@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 const properties = {
   'color': 'നിറം',
   'width': 'വീതി',

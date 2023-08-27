@@ -1,6 +1,6 @@
 {
   "name": "malayalam-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Write css in Malayalam (ഇനി CSS മലയാളത്തിലും എഴുതാം!).",
   "keywords": ["postcss", "plugin", "postcss-plugin", "malayalam", "malayalam-css"],
   "scripts": {
